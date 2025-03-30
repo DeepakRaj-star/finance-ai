@@ -1,0 +1,55 @@
+AI-Augmented Personal Finance Management using Fetch AI and Pathway’s Vector Store for Real-Time Insights
+
+Background & Motivation:
+Personal finance management has evolved beyond static budget tracking to real-time financial intelligence. With transaction data continuously streaming from various sources, individuals require AI-driven insights to make informed financial decisions. By leveraging AI agents for intelligent analysis and vector-based real-time transaction processing, this project aims to optimize personal finance management using quantitative finance principles.
+
+Objective:
+To develop a Quant-AI hybrid finance management system that:
+
+Ingests and processes real-time transaction data using Pathway’s vector store.
+
+Employs Fetch AI’s AI agents to analyze transactions, categorize spending, and predict financial trends.
+
+Handles natural language financial queries, such as "Can I afford a $100 purchase?", and generates automated budget recommendations.
+
+Uses quantitative finance techniques to optimize cash flow, budget allocation, and personal financial risk management.
+
+Provides interactive, AI-powered visualizations for real-time insights.
+
+Research & Quantitative Approach:
+Algorithmic Finance Optimization:
+
+Implement Reinforcement Learning for spending pattern adaptation.
+
+Use Monte Carlo simulations to predict spending trends.
+
+Develop quantitative risk models for financial health assessment.
+
+Time-Series Forecasting:
+
+Implement LSTM & ARIMA models for future expenditure prediction.
+
+Use volatility estimation models for identifying spending fluctuations.
+
+AI & NLP for Finance Queries:
+
+Train LLMs to process user questions and provide actionable financial insights.
+
+Implement semantic search on Pathway’s vector store to retrieve spending patterns dynamically.
+
+Portfolio & Budget Optimization:
+
+Optimize financial decision-making using Markowitz Modern Portfolio Theory (MPT) for personal finance.
+
+Dynamic budget allocation based on Sharpe ratio analysis.
+
+Expected Outcome:
+A fully functional AI-driven personal finance platform with:
+
+Real-time transaction processing & AI-powered query handling.
+
+Predictive financial analytics and interactive visualizations.
+
+Automated savings suggestions & financial risk analysis.
+
+Potential applications in Robo-Advisory, AI-driven financial planning, and personalized budgeting tools.
